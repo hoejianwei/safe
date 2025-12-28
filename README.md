@@ -6,3 +6,4 @@ Parts used
 XIAO ESP32-C6
 Time of flight VL53L0X
 
+pics and video available as part of documentation
